@@ -16,6 +16,10 @@ Intergrantes:
   
 # Welcome to StackEdit!
 
+## Imagen
+
+![enter image description here](https://nodd3r.com/media/blog/Portadas_blog_21.png)
+
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
@@ -158,6 +162,4 @@ B --> D{Rhombus}
 C --> D
 ```
 
-## Imagen
 
-![enter image description here](https://nodd3r.com/media/blog/Portadas_blog_21.png)
